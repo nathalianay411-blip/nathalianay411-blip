@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou Nathy!
 
-<!--
-**nathalianay411-blip/nathalianay411-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- Atualmente estudando computação em nuvem.
+- Tenho interesse em tecnologia, programação e desenvolvimento de soluções.
+- Busco ampliar meus conhecimentos e desenvolver minhas habilidades na área de TI.
 
-Here are some ideas to get you started:
+## Ferramentas e tecnologias
+- Lógica de programação
+- Git e GitHub
+- Markdown
+- Computação em nuvem
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+- GitHub: https://github.com/nathalianay411-blip
