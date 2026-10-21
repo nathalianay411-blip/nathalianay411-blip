@@ -3,7 +3,10 @@
 ## Sobre mim
 - Atualmente estudando computação em nuvem.
 - Tenho interesse em tecnologia, programação e desenvolvimento de soluções.
-- Busco ampliar meus conhecimentos e desenvolver minhas habilidades na área de TI.
+- Busco compreender como as tecnologias funcionam e como podem ser utilizadas para resolver problemas.
+- Estou desenvolvendo meus conhecimentos em lógica de programação, Git e GitHub.
+- Tenho interesse em aprender novas ferramentas e explorar diferentes áreas da tecnologia, estou desenvolvendo meus conhecimentos em lógica de programação, Git e GitHub.
+- Acredito que o aprendizado contínuo é essencial para evoluir e acompanhar as mudanças na área de TI, meu objetivo é transformar conhecimentos em prática, desenvolver projetos e crescer profissionalmente na área de tecnologia.
 
 ## Ferramentas e tecnologias
 - Lógica de programação
