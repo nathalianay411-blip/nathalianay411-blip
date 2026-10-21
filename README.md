@@ -9,7 +9,7 @@
 - Lógica de programação
 - Git e GitHub
 - Markdown
-- Computação em nuvem
+- Cloud Computing
 
 ## Contato
 - GitHub: https://github.com/nathalianay411-blip
